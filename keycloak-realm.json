@@ -1,0 +1,8 @@
+{
+  "realm": "myrealm",
+  "enabled": true,
+  "displayName": "My Realm",
+  "registrationAllowed": false,
+  "loginWithEmailAllowed": true,
+  "duplicateEmailsAllowed": false
+}
