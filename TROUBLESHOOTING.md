@@ -1,4 +1,4 @@
-# Troubleshooting Report: Keycloak & User-Creator Build Fixes
+~# Troubleshooting Report: Keycloak & User-Creator Build Fixes
 
 This document details the issues encountered during `docker compose up --build` and the fixes implemented to resolve them.
 
